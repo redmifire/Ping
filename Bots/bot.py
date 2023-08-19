@@ -15,6 +15,6 @@ async def huh354(ctx):
     await ctx.respond("Hey!")
 
     
-bot.run("MTEzODc3MDA4OTAwMTM2NTU2NA.GR_4c4.oQ7ac6Kzney3jvP2GOPAQUzfCcmrAJu81xENI0")
+bot.run("Your bot token")
 
 
